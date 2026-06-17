@@ -16,6 +16,13 @@ The project follows a complete end-to-end analytics workflow, starting from data
 
 *Interactive Power BI dashboard highlighting customer behavior, revenue trends, customer segmentation, subscription insights, and product performance.*
 
+<p align="center">
+  <a href="https://app.powerbi.com/view?r=eyJrIjoiNWNhNGRjMDktNjg3MC00NTNjLWE4OWItMmU2YTQwNWU1OTNkIiwidCI6IjAyNjU5ODhhLWU0MDQtNGRkYy1hMmEwLTY2MjUwNWMzYjc4ZiIsImMiOjh9" target="_blank">
+    <img src="https://img.shields.io/badge/View-Live%20Dashboard-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="View Dashboard">
+  </a>
+</p>
+
+
 ---
 
 ## 🛠️ Project Workflow
